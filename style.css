@@ -1,0 +1,28 @@
+/* img{
+
+display: block;
+border: 2px solid turquoise;
+background-color: crimson;
+}
+#firstdiv{
+
+display: inline-block;
+
+} */
+
+p{
+display: block;
+
+width: 200px;
+height: 200px;
+padding:20px;
+}
+span{
+display: inline-block;
+border: solid crimson 2px;
+width: 200px;
+height: 200px;
+margin: 50px;
+padding: 10px;
+
+}
